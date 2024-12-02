@@ -12,7 +12,7 @@ import javafx.stage.Stage
 
 class App : Application() {
     object Config {
-        const val APP_TITLE = "Password Manager"
+        const val APP_TITLE = "Credentials Manager"
         const val APP_VERSION = "0.1.0"
         const val APP_ICON_PATH = "/app_icon.png"
 
